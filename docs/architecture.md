@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a secure staff copilot for hospitality operations that returns grounded answers with citations.
+Build a secure staff operations assistant for hospitality operations that returns grounded answers with citations.
 
 ## System components
 
@@ -26,4 +26,3 @@ Build a secure staff copilot for hospitality operations that returns grounded an
 
 - No autonomous booking changes in MVP.
 - No real personal data in MVP dataset.
-

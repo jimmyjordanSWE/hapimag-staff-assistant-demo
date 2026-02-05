@@ -1,6 +1,6 @@
-# Hapimag Staff Copilot Demo
+# Hapimag Staff Operations Assistant Demo
 
-Production-minded AI copilot demo for hospitality operations.
+Production-minded AI assistant demo for hospitality operations.
 
 ## Why this exists
 
@@ -31,4 +31,3 @@ demo/      interview walkthrough script
 ## Quick start (placeholder)
 
 Implementation is scaffolded first. Runtime commands will be added as modules are built.
-

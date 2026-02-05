@@ -2,7 +2,7 @@
 
 ## What We Build
 
-1. Secure staff copilot for SOP and booking-policy Q&A
+1. Secure staff operations assistant for SOP and booking-policy Q&A
 2. RAG answers with citations and confidence signal
 3. Role-based access per staff persona
 4. Guardrails for prompt injection and data exfiltration
@@ -33,4 +33,3 @@
 - CI/CD with rollback and release safety
 - Cost and latency tuning under traffic constraints
 - Technical communication: tradeoffs, risks, mitigations
-
